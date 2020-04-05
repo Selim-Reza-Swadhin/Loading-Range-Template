@@ -1,0 +1,136 @@
+
+body{
+font-family: 'Raleway', sans-serif;
+}
+#justify{
+	color: white;
+	font-size: 30px;
+}
+
+#navigation a{
+	color: white;
+}
+
+#navigation a:hover{
+	color:#FBBC05;
+}
+h5{
+ font-family: 'Raleway', sans-serif;
+ font-size: 32px;
+ letter-spacing: 12px;
+ font-weight: bold;
+}
+p{
+	font-family: 'Raleway', sans-serif;
+
+}
+#program{
+	font-size:12px;
+	font-weight: bold;
+}
+#service i{
+	font-size: 40px;
+
+}
+
+
+#client{
+	background: url(../img/light.jpg);
+	min-height: 100px;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#work a{
+	font-size: 12px;
+	font-weight: bold;
+	color: black;
+}
+
+#work a:hover{
+	color: #BA8B00;
+}
+#alert{
+	background: #333;
+}
+#process i{
+	font-size: 30px;
+}
+#process p{
+	font-size: 12px;
+	font-weight: bold;
+}
+#footer{
+	height: 30px;
+	color: black;
+	font-weight: bolder;
+	letter-spacing: 3px;
+}
+#client .dark-overlay{
+	background:RGBA(0,0,0,0.4);
+	min-height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media queries*/
+
+@media only screen and (min-width: 576px) {
+  
+}
+@media only screen and (min-width: 768px) {
+	#slideCaption{
+		margin-bottom: 120px;
+	}
+ 
+}
+@media only screen and (min-width: 992px) {
+	#slideCaption{
+		margin-bottom: 280px;
+	}
+ 
+ 
+}
+@media only screen and (min-width: 1200px) {
+	#slideCaption{
+		margin-bottom: 420px;
+	}
+ 
+ 
+}
+
+
+// EXTRA Xtra MALL DEVICe
+
+
+@media only screen and (max-width: 575px) {
+
+}
+
+@media only screen and (min-width: 767px) {
+ 
+}
+
+@media only screen and (min-width: 991px) {
+ 
+}
+
+@media only screen and (min-width: 1199px) {
+ 
+}
+
